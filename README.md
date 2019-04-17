@@ -1,2 +1,1 @@
-# ASD
-Algorithms and Data Structures 
+ASD - tasks from laboratory at MiNI faculty of Warsaw University of Technology
